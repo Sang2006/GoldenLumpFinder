@@ -3,7 +3,7 @@ The Golden Lump Finder is a Python program that searches a directory of cookie c
 
 ## Usage
 ### Exporting save files
-I've also made a auto hotkey script for easy save exports. This is save you alot of time and effort. If you dont want to you the ahk file you can always do it manually.
+I've also made an auto hotkey script for easy save exports. This is save you alot of time and effort. If you dont want to you the ahk file you can always do it manually.
 You atleast want to have 600 save files because golden lumps are quite rare.
 ### Finding golden lumps
 1. Download the golden_lump_finder.py file to your computer.
